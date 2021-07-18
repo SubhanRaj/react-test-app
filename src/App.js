@@ -13,7 +13,7 @@ function App() {
           className="App-link"
           href="https://github.com/SubhanRaj"
           target="_blank"
-          rel="opener referrer"
+          rel="noopener noreferrer"
         >
           My GitHub
         </a>
