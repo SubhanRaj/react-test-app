@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "react-test-app",
+  "version": "1.0",
   "homepage": "https://subhanraj.github.io/react-test-app",
   "private": true,
   "dependencies": {
